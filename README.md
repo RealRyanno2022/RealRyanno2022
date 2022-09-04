@@ -15,8 +15,6 @@ interface DanielRyan extends aWarmWelcome {
       contactMe === "linkedin.com/in/daniel-ryan-8957a5186";
      }
 
-.
-
-
+          :)
 
 
