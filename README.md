@@ -17,7 +17,7 @@ const DanielRyan = () => {
     
     let skills = ["Public Speaking","Writing","Ad Creation","Research"];
     
-    let accomplishments = ["Won YEOTY 2021","Published self-help book (Memento Mori)"];
+    let accomplishments = ["Won YEOTY 2021","Published self-help book (Memento Mori)","Created a range of Shopify stores"];
        
     let interestedIn = ["Internships","Hackathons","Co-founding"];  
     
