@@ -8,11 +8,17 @@ const DanielRyan = () => {
         whatIsThat?: 'A computer science and business course focused on modern quantiative methods'
     ];
     
+    let games = ["The Battle of Polytopia","Brawl Stars","Minecraft"];
+    
+    let hobbies = ["Working out", "Programming", "Learning"];
+    
+    const specialty = "Full Stack Development";
+    
     let tech = [
        mainLanguages: ["Python","Java","Javascript"],
        secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
-       frameworks: ["React","Django","React Native"],
-       technologies: ["Docker","AWS", "Jenkins"]
+       frameworks: ["React","Django","React Native","Node","Express"],
+       technologies: ["Docker","AWS", "Jenkins","PostgreSQL","Kubernetes"]
     ];
     
     let skills = ["Public Speaking","Writing","Ad Creation","Research"];
