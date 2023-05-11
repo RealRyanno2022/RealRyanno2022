@@ -11,7 +11,7 @@ const DanielRyan = () => {
     let tech = [
        mainLanguages: ["Python","Java","Javascript"],
        secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
-       frameworks: ["React","Django"],
+       frameworks: ["React","Django","React Native"],
        technologies: ["Docker","AWS", "Jenkins"]
     ];
     
