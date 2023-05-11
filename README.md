@@ -27,11 +27,8 @@ const DanielRyan = () => {
     if(areYouInterested? === true && interestedIn.includes(yourSuggestion) {
         contactMe();
     }
-    
-    function contactMe() {
-        const methods = "Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)"
-        return methods;
-    }
+    return();
+ } export default DanielRyan;
     
 ```
 Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)
