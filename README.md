@@ -41,5 +41,5 @@ const DanielRyan = () => {
 Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)
 [Portfolio:](https://realryanno2022.github.io/)
     
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealRyanno2022)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealRyanno2022&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
