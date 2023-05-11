@@ -33,18 +33,19 @@ const DanielRyan = () => {
         return methods;
     }
     
-   
-    return (
+```
+function contactMe() {
+        const methods = "Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)"
+        return methods;
+    }
+return (
         <div>
             <div className={styles.website}>[Portfolio:](https://realryanno2022.github.io/)</div>
         </div>
     );
 }
 
-
 export default DanielRyan;
-```
-
     
 
 
