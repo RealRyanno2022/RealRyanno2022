@@ -1,8 +1,50 @@
+```
+import React from 'react';
+
+const DanielRyan = () => {
+    let userDetails = [
+        college: 'Trinity College Dublin',
+        course: 'B.A. Management Science and Information Systems Studies',
+        whatIsThat?: 'A computer science and business course focused on modern quantiative methods'
+    ];
+    
+    let tech = [
+       mainLanguages: ["Python","Java","Javascript"],
+       secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
+       frameworks: ["React","Django"],
+       technologies: ["Docker","AWS", "Jenkins"]
+    ];
+    
+    let skills = ["Public Speaking","Writing","Ad Creation","Research"];
+    
+    let accomplishments = ["Won YEOTY 2021","Published self-help book (Memento Mori)"];
+       
+    let interestedIn = ["Internships","Hackathons","Co-founding"];  
+    
+    let areYouInterested? = 'true';
+    let yourSuggestion = [];
+    
+    if(areYouInterested? === true && interestedIn.includes(yourSuggestion) {
+        contactMe();
+    }
+    
+    function contactMe() {
+        const methods = "Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)"
+        return methods;
+    }
+    
+   
+    return (
+        <div>
+            <div className={styles.website}>[Portfolio:](https://realryanno2022.github.io/)</div>
+        </div>
+    );
+}
 
 
-I like to program. Check out my Linkedin!
+export default DanielRyan;
+```
 
-linkedin.com/in/daniel-ryan-8957a5186
     
 
 
