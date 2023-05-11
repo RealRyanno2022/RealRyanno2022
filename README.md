@@ -32,8 +32,7 @@ const DanielRyan = () => {
     
 ```
 Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com), or [DM me on LinkedIn.](https://www.linkedin.com/in/daniel-ryan-8957a5186/)
-[Portfolio:](https://realryanno2022.github.io/)</div>
-export default DanielRyan;
+[Portfolio:](https://realryanno2022.github.io/)
     
 
 
