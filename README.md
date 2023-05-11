@@ -1,4 +1,4 @@
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ```
 import React from 'react';
