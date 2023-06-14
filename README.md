@@ -26,10 +26,14 @@ const DanielRyan = () => {
     
     let accomplishments = ["Won YEOTY 2021","Published self-help book (Memento Mori)","Created a range of Shopify stores"];
        
-    let interestedIn = ["I am aware of the consequences of a post-quantum future where we can no longer rely on public key encryption or conventional methods",
-    "I will learn cryptography and both the C and Rust programming languages to then secure an intenrship at a data encryption company.",
-    "I will then look for co-founders in starting a post-quantum encryption company which provides post-quantum encryption services to businesses",
-    "I am driven, entrepreneurial and prepared to move to technology "Ground Zero" locations such as the Bay Area if needs be."]
+    let interestedIn = ["I am aware of the consequences of a post-quantum future where we can no longer rely 
+    on public key encryption or conventional methods",
+    "I will learn cryptography and both the C and Rust programming languages to then secure an intenrship
+    at a data encryption company.",
+    "I will then look for co-founders in starting a post-quantum encryption company which provides post-quantum 
+    encryption services to businesses",
+    "I am driven, entrepreneurial and prepared to move to technology "Ground Zero" locations 
+    such as the Bay Area in San Francisco, if needs be."]
 
     
 
