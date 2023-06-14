@@ -64,34 +64,42 @@ const DanielRyan = () => {
 
  } export default DanielRyan;
  
+ 
+ ===============================================
     
-      ---------
-    
-    import java.util.Scanner;
-    
-    public class FurtherCorrespondence {
-        public void main() {
-            scanner input = new Scanner(System.in);
-            System.out.println("Are you interested?");
-            private boolean areYouInterested? = input.nextBoolean();
+import java.util.Scanner;
 
-            if(areYouInterested?) {
-                contactMe();
-            }
-            
-            input.close();
+public class FurtherCorrespondence {
+
+    public void main() {
+
+        scanner input = new Scanner(System.in);
+
+        System.out.println("Are you interested?");
+
+        private boolean areYouInterested? = input.nextBoolean();
+
+        if(areYouInterested?) {
+            contactMe();
         }
-        
-        public String contactMe() {
-            System.out.println("Email me at [ryannobusiness@gmail.com](mailto:ryannobusiness@gmail.com),
-            or DM me on LinkedIn. https://www.linkedin.com/in/daniel-ryan-8957a5186/.
-            Portfolio: https://realryanno2022.github.io/");
-        
-        }
-        
+
+        input.close();
     }
-    
-       ---------
+
+    public String contactMe() {
+
+        System.out.println(
+
+            "Email me at [ryannobusiness@gmail.com],
+
+             or DM me on LinkedIn. https://www.linkedin.com/in/daniel-ryan-8957a5186/.
+
+             Portfolio: https://realryanno2022.github.io/");
+
+    }
+
+}
+
     
     
     
