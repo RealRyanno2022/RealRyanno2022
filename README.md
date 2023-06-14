@@ -39,7 +39,7 @@ const DanielRyan = () => {
 
  } export default DanielRyan;
  
- Let's switch it up.
+// Let's switch it up.
     
       ---------
     
