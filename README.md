@@ -15,31 +15,55 @@ const DanielRyan = () => {
     
     const specialty = "Full Stack Development";
     
-    let tech = [
-       mainLanguages: ["Python","Java","Javascript"],
-       secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
-       frameworks: ["React","Django","React Native","Node","Express"],
-       technologies: ["Docker","AWS", "Jenkins","PostgreSQL","Kubernetes"]
-    ];
+    let tech = 
+        [
+            mainLanguages: ["Python","Java","Javascript"],
+       
+            secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
+       
+            frameworks: ["React","Django","React Native","Node","Express"],
+       
+            technologies: ["Docker","AWS", "Jenkins","PostgreSQL","Kubernetes"]
+        
+        ];
     
     let skills = ["Public Speaking","Writing","Ad Creation","Research"];
     
-    let accomplishments = ["Won YEOTY 2021","Published self-help book (Memento Mori)","Created a range of Shopify stores"];
-       
-    let plan = ["I am aware of the consequences of a post-quantum future where we can no longer rely 
-    on public key encryption or conventional methods",
-    "I will learn cryptography and both the C and Rust programming languages to then secure an intenrship
-    at a data encryption company.",
-    "I will then look for co-founders in starting a post-quantum encryption company which provides post-quantum 
-    encryption services to businesses",
-    "I am driven, entrepreneurial and prepared to move to technology "Ground Zero" locations 
-    such as the Bay Area in San Francisco, if needs be."]
+    let accomplishments = 
+        [
+            "Won Irish Young Economist of the Year 2021",
+            "This is the BT Young Scientist equivalent for Economics in Ireland",
+            "I created an umbrella analysis of e-commerce and its use by SMEs",
 
-  
+            "Wrote, edited and published self-help book (Memento Mori)",
+            "Planned to be rewritten and re-released within the next few years".
+
+            "Created a range of Shopify stores",
+            "Some with over 3000 daily visitors"
+        ];
+       
+    let plan = 
+        [
+            "I am aware of the consequences of a post-quantum future where we can no longer rely 
+             on public key encryption or conventional methods",
+
+            "I will learn cryptography and both the C and Rust programming languages to then secure an intenrship
+             at a data encryption company.",
+
+            "I will then look for co-founders in starting a post-quantum encryption company which provides post-quantum 
+             encryption services to businesses",
+
+            "I am driven, entrepreneurial and prepared to move to technology "Ground Zero" locations 
+             such as the Bay Area in San Francisco, if needs be."
+         ]
+         
+         return (
+            <div>Let's switch it up.</div>
+         )
+
 
  } export default DanielRyan;
  
-// Let's switch it up.
     
       ---------
     
