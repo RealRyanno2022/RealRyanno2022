@@ -9,12 +9,6 @@ const DanielRyan = () => {
         whatIsThat?: 'A computer science and business course focused on modern quantiative methods'
     ];
     
-    let games = ["The Battle of Polytopia","Brawl Stars","Minecraft"];
-    
-    let hobbies = ["Working out", "Programming", "Learning"];
-    
-    const specialty = "Full Stack Development";
-    
     let tech = 
         [
             mainLanguages: ["Python","Java","Javascript"],
