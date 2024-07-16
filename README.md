@@ -17,7 +17,7 @@ const DanielRyan = () => {
        
             frameworks: ["React","React Native","Node","Express"],
 
-            learning: ["Haskell","Rust","Linux","Docker","DevOps tooling (Ansible, Github Actions, Azure)"]
+            learning: ["Haskell","Rust","Linux","Docker","DevOps tooling"]
         
         ];
     
