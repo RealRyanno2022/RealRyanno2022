@@ -35,6 +35,7 @@ const DanielRyan = () => {
             "Created a range of Shopify stores",
             "Some with over 3000 daily visitors"
         ];
+
  } export default DanielRyan;
  
  
