@@ -16,6 +16,8 @@ const DanielRyan = () => {
             secondaryLanguages: ["R", "Kotlin", "SQL", "Solidity"],
        
             frameworks: ["React","React Native","Node","Express"],
+
+            learning: ["Haskell","Rust","Linux","Docker","DevOps tooling (Ansible, Github Actions, Azure)"]
         
         ];
     
